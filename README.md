@@ -108,13 +108,16 @@
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
     </p>
+
 </details>
+<br>
+ <p align="center">MM∴ IIr∴ C∴ T∴ M∴ R∴</p>
 <br>
 
 <!-- Footer -->
 <samp>
     <p align="center">
-        ════ ⋆★⋆ ════
+        ════ ∆ ════
         <br>
         "Don't stop learn :)"
     </p>
