@@ -64,10 +64,10 @@
         <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-AdobePhotoshop-000000?style=flat&logo=Adobe-Photoshop&logoColor=white">
         </a>
-        <br />
        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
         </a>
+        <br>
         <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=NODE.js&logoColor=white">
         </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
