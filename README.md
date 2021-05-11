@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>< Hello Friend />!, I am
+        <samp>< Hello Friend /> <br> !, I am
                 <b><a target="_blank" href="#">Moisés Vilas Boas</a></b>
         </samp>
 </h3>
@@ -119,6 +119,6 @@
     <p align="center">
         ════ ∆ ════
         <br>
-        `Don't stop learn λ`
+        `Don't stop learne λ`
     </p>
 </samp>
