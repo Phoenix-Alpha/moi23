@@ -22,55 +22,59 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="hhttps://github.com/moi23?tab=repositories" target="_blank"><img alt="Code"
+        <a href="hhttps://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-code-000000?style=flat&logo=Plex&logoColor=white">
         </a>
         <!-- HTML -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="CSS"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
+                        src="https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=white">
+        </a>
+         <!-- CSS  -->
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=white">
         </a>
         <!-- JavaScript -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript&logoColor=white">
         </a>
         <!-- ReactJS -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="React"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=white">
         </a>
         <!-- React Native -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="ReactNative"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=white">
         </a>
         <!-- NextJS -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="NextJS"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=Next.js&logoColor=#FFFFFF">
         </a>
         <!-- ThreeJS -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="Adobe XD"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-AdobeXD-000000?style=flat&logo=Adobe-xd&logoColor=white">
         </a>
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="Adobe XD"
-                        src="https://img.shields.io/badge/-AdobeXD-000000?style=flat&logo=Adobe-xd&logoColor=white">
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
+                        src="https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch&logoColor=white">
         </a>
         <!-- VB.NET -->
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-AdobePhotoshop-000000?style=flat&logo=Adobe-Photoshop&logoColor=white">
         </a>
         <br />
-       <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+       <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
         </a>
-        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+        <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=NODE.js&logoColor=white">
-        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Puppeteer-000000?style=flat&logo=Puppeteer&logoColor=white">
-        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=white">
-        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt="VB.NET"
+        </a><a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-StyledComponents-000000?style=flat&logo=Styled-Components&logoColor=white">
         </a>
 
