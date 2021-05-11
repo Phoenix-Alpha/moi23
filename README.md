@@ -41,6 +41,7 @@
         <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript&logoColor=white">
         </a>
+        <br>
         <!-- ReactJS -->
         <a href="https://github.com/moi23?tab=repositories" target="_blank"><img alt=""
                         src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=white">
