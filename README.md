@@ -111,7 +111,7 @@
 
 </details>
 <br>
- <p align="center">MM∴ IIr∴ C∴ T∴ M∴ R∴</p>
+ <h5 align="center">MM∴ IIr∴ C∴ T∴ M∴ R∴</h5>
 <br>
 
 <!-- Footer -->
@@ -119,6 +119,6 @@
     <p align="center">
         ════ ∆ ════
         <br>
-        "Don't stop learn :)"
+        `Don't stop learn λ`
     </p>
 </samp>
