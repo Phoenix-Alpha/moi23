@@ -83,7 +83,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <!--<summary> <samp>See my GitHub Stats</samp></summary>-->
+    <summary> <samp>See my GitHub Stats</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
