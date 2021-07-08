@@ -83,7 +83,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>See my GitHub Stats</samp></summary>
+    <!--<summary> <samp>See my GitHub Stats</samp></summary>-->
     <p align="center">
         <br>
         <!-- Activity Widget -->
@@ -120,6 +120,6 @@
     <p align="center">
         ════ ∆ ════
         <br>
-        `Don't stop learne λ`
+        `Don't stop learn λ`
     </p>
 </samp>
