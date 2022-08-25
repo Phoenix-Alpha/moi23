@@ -16,7 +16,7 @@
         <samp>
                 「 From Sorocaba, SP (Brasil) 」
                 <br>
-                「 Front-End Developer, Computer Science Student @<b> Universidade Paulista - UNIP</b> 」
+                「 Senior Mobile Android and IOS Developer, Computer Science Student @<b> Universidade Paulista - UNIP</b> 」
                 <br>
                 <br>
         </samp>
