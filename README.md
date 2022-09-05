@@ -112,7 +112,7 @@
 
 </details>
 <br>
- <h5 align="center">MM∴ IIr∴ C∴ T∴ M∴ R∴</h5>
+ <h5 align="center">∴</h5>
 <br>
 
 <!-- Footer -->
